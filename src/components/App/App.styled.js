@@ -9,7 +9,8 @@ export const Container = styled.div`
   text-align: center;
   justify-content: center;
   border-radius: 20px;
-  background-image: url("${images}");
+background-color: rgba(255, 255, 128, .5);
+      background-image: url("${images}");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: 50% ;
