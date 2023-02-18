@@ -9,9 +9,7 @@ export const Container = styled.div`
   text-align: center;
   justify-content: center;
   border-radius: 20px;
-  // border: 3px solid #333340;
-    background: linear-gradient(62.93deg, #97ccf0 19.68%, #5218fa 89.55%);
-      background-image: url("${images}");
+  background-image: url("${images}");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: 50% ;
